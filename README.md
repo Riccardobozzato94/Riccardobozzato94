@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Riccardo Bozzato (a.k.a. RDev) 👋<br>📍 Native of Venice, Italy — currently working from home.<br>💫 Passionate about cybersecurity, building software to solve real problems, and helping others through code.<br>🔗 Connect: LinkedIn (https://www.linkedin.com/in/riccardobozzato/)<br>Some of my work:<br>- riccardobozzato.dev (https://github.com/Riccardobozzato94/riccardobozzato.dev) — my personal site (TypeScript)<br>- casagiusta (https://github.com/Riccardobozzato94/casagiusta) — "Il tuo alleato digitale per la casa": analysis, tenant protections & legal support for rentals (TypeScript)
+Hi, I'm Riccardo Bozzato (a.k.a. RDev) 👋<br>📍 Native of Venice, Italy — currently working from home.<br>💫 Passionate about cybersecurity, building software to solve real problems, and helping others through code.<br>🔗 Connect: LinkedIn (https://www.linkedin.com/in/riccardobozzato/)<br>Some of my work:<br>- riccardobozzato.com (https://riccardobozzato.com/it) — my personal site (TypeScript)<br>- casagiusta (https://github.com/Riccardobozzato94/casagiusta) — "Il tuo alleato digitale per la casa": analysis, tenant protections & legal support for rentals (TypeScript)
 
 
 ## 🌐 Socials:
